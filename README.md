@@ -16,7 +16,7 @@
 - **Game Testing:** Finding and documenting in-game issues
 - **Project Management:** Team coordination, task prioritization
 - **Tech Stack:** GitHub, Notion, Trello, Figma, HTML, CSS
-- **Languages:** English, Russian
+- **Languages:** English, Russian, Ukrainian
 
 🌍 **Living in Helsinki, Finland** 🇫🇮
 
