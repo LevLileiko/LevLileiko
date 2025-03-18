@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Lev 👋
 
-<!--
-**LevLileiko/LevLileiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Aspiring Project Manager & QA Enthusiast** with a strong background in technical maintenance, team leadership, and community support. Passionate about game testing, bug hunting, and project coordination.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Currently exploring:
+- **Game QA & Bug Reporting** 🕵️‍♂️
+- **Project Management & Agile Workflows** 📊
+- **Twitch Streaming & Content Creation** 🎥
+
+---
+
+### 📌 Skills & Tools:
+- **QA Testing:** Bug reporting, test case creation, exploratory testing
+- **Game Testing:** Finding and documenting in-game issues
+- **Project Management:** Team coordination, task prioritization
+- **Tech Stack:** GitHub, Notion, Trello, Figma, HTML, CSS
+- **Languages:** English, Russian
+
+🌍 **Living in Helsinki, Finland** 🇫🇮
+
+📩 **Feel free to reach out via** [Email](#) | [Telegram](#) | [LinkedIn](#)  
+📂 **Check out my bug reports and projects below!** 👀
