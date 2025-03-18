@@ -20,5 +20,5 @@
 
 🌍 **Living in Helsinki, Finland** 🇫🇮
 
-📩 **Feel free to reach out via** [Email](leo.lileyko@gmail.com) | [Telegram](#) | [LinkedIn](#)  
+📩 **Feel free to reach out via** [Email](leo.lileyko@gmail.com) | [Telegram]([#](https://t.me/heikkoutesi)) | [LinkedIn]([#](https://www.linkedin.com/in/leo-lileyko-7394ab25a/))  
 📂 **Check out my bug reports and projects below!** 👀
